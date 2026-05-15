@@ -26,11 +26,9 @@ Ce projet est un site web personnel (portfolio) conçu pour présenter le profil
 ![image5](image-4.png)
 ## Maquette Figma
 Le design du site a été initialement conçu sur Figma pour assurer une expérience utilisateur optimale.
-[https://www.figma.com/site/snjkcJE0dS7DeTpwYjlGIe/Untitled?node-id=50-2&t=sqKBxyLl680vqVDD-1](https://www.figma.com/) *(Remplacez par votre lien réel)*
+[https://www.figma.com/site/snjkcJE0dS7DeTpwYjlGIe/Untitled?node-id=50-2&t=sqKBxyLl680vqVDD-1](https://www.figma.com/) 
 
 ## Version en ligne
 Vous pouvez consulter la version en direct du site ici :
-[https://github.com/mberninz99z-cmd/portfolio_Marouane.Berninz_Zakariya.aderdour.github.io](https://pages.github.com/) *(Remplacez par votre lien réel)*
+[https://github.com/mberninz99z-cmd/portfolio_Marouane.Berninz_Zakariya.aderdour.github.io](https://pages.github.com/) 
 
----
-&copy; 2026 | Réalisé par Marouane Berninz & Zakariya Aderdour
