@@ -30,5 +30,5 @@ Le design du site a été initialement conçu sur Figma pour assurer une expéri
 
 ## Version en ligne
 Vous pouvez consulter la version en direct du site ici :
-[https://github.com/mberninz99z-cmd/portfolio_Marouane.Berninz_Zakariya.aderdour.github.io](https://pages.github.com/) 
+[https://mberninz99z-cmd.github.io/portfolio_Marouane.Berninz_Zakariya.aderdour.github.io/](https://pages.github.com/) 
 
